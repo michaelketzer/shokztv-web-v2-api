@@ -16,7 +16,7 @@
     "@types/jsonwebtoken": "^8.5.0",
     "@types/mysql2": "types/mysql2",
     "@types/node": "^14.14.31",
-    "@types/node-fetch": "^2.5.8",
+    "@types/node-fetch": "^2.5.12",
     "@types/passport": "^1.0.6",
     "@types/passport-anonymous": "^1.0.3",
     "@types/passport-jwt": "^3.0.5",
